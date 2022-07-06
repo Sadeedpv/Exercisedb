@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-# Exercices-db
+# Exercises-db
 
 ### A complete fitness workout app containing you favourite workouts and videos 🤸.
 
